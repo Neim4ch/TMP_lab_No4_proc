@@ -1,0 +1,6 @@
+Only feature films.
+0: This is "Star_Wars". It is feature film. Director is Lucas
+Number of vowels = 2
+The picture was filmed in USA.
+1: 
+2: 

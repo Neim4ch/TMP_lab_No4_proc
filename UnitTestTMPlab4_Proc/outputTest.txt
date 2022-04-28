@@ -1,0 +1,10 @@
+Container contents 3 elements.
+0: This is "Star_Wars". It is feature film. Director is Lucas
+Number of vowels = 2
+The picture was filmed in USA.
+1: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+Number of vowels = 3
+The picture was filmed in Japan.
+2: This is "Doc2oaa". It is documentary film. It's year of creation is 2005
+Number of vowels = 4
+The picture was filmed in Italy.
